@@ -10,6 +10,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Filter Positions in a List"
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Array Of N Elements", "Array Of N Elements\Array Of N Elements.fsproj", "{A42363DA-A002-4C9F-8ED8-AB91F83D05B0}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Reverse a List", "Reverse a List\Reverse a List.fsproj", "{1B9806FA-99D5-4EE4-AA7E-612B5CA127BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{A42363DA-A002-4C9F-8ED8-AB91F83D05B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A42363DA-A002-4C9F-8ED8-AB91F83D05B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A42363DA-A002-4C9F-8ED8-AB91F83D05B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B9806FA-99D5-4EE4-AA7E-612B5CA127BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B9806FA-99D5-4EE4-AA7E-612B5CA127BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B9806FA-99D5-4EE4-AA7E-612B5CA127BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B9806FA-99D5-4EE4-AA7E-612B5CA127BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
