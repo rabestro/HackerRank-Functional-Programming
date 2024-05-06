@@ -18,6 +18,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "List Length", "List Length\
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Update List", "Update List\Update List.fsproj", "{A81889B2-F1AF-44F1-93E5-8FA66F2827AD}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Evaluating e pow x", "Evaluating e pow x\Evaluating e pow x.fsproj", "{45B159E1-6189-434E-B917-374FEDD935AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{A81889B2-F1AF-44F1-93E5-8FA66F2827AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A81889B2-F1AF-44F1-93E5-8FA66F2827AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A81889B2-F1AF-44F1-93E5-8FA66F2827AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45B159E1-6189-434E-B917-374FEDD935AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B159E1-6189-434E-B917-374FEDD935AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45B159E1-6189-434E-B917-374FEDD935AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45B159E1-6189-434E-B917-374FEDD935AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
