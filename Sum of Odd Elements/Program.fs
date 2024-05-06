@@ -1,7 +1,7 @@
 ﻿open System
 
 (*USER CODE BEGIN*)
-let isOdd x = x % 2 = 1
+let isOdd x = abs (x) % 2 = 1
 let f arr = arr |> Seq.filter isOdd |> Seq.sum
 (*USER CODE END*)
 
